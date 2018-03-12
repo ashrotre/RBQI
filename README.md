@@ -11,7 +11,7 @@ The sources are tested in Ubuntu 16.04 (64-bit), Eclipse Platform Version 3.8.1 
 
 	Linux:
 		1. Create build/ folder
-		2. cd buid/1	`5
+		2. cd buid/
 		3. cmake -G"Eclipse CDT4 - Unix Makefiles" ../RBQI/
 		4. Open Eclipse 
 		5. Import the project into the workspace (https://cmake.org/Wiki/Eclipse_CDT4_Generator)
